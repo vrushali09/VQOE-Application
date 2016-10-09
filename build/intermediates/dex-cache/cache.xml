@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9f5da99354c17450a822766cd147b4afdfca7b30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_efeff8dd08b62e6f6f1cdb9f5e6b449202a72bc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_1e665b8db9db4d442f9b960bea81a446be6677ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-core-1.8.4_b9ed54902e4f0f8d6b33c91f1a54a8c94e1efd2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-zxing-1.8.4_6d6182c17c3b9b38b15ac1dc38f45ff6596715f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_493ed233de1597bb11f4835f5f284512c731481b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_a7ff3a43c5c175c398f64ffcce166171a62520cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_5fa9c267aa1e4da52fe5ed1a8e93dcd6eb8dd0b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_a0b2461c8e9395f88c27ab0d1e2036783977c88c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ea0b09d0c7740adaf110d84693c8f1d41a60f69c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_1def07022027639c0881c4b08c30a94c45288fd8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_61e7030c422f6a43f41b0ba398d9ebd6b14ecda1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f035826e95a1f67dba044b0ec85f86ebf911afd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_8c0d094d944ab10aaf468e0f1b66163b05fd9529\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e0c3876a458b759c124205cfcaa879f56bf49841\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6aea8340c9092447375713cb1fe2468cf93c84b0">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1b3c240c501d6dad507cc5a5e1e52a147c839f9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_212e14352b87fee8121e0d5c917434cf5bd43c7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_a0886713e5ad291adaefce744a193ead019f35c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_d8acac6681bf094fe2a740e422c3e6ea474c5b8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6fb8875e0d9a47383d7dc6c427c88e5f0329d5e1">
+        <dex dex="C:\Users\vrushali gaikwad\Downloads\SV4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a660ce844e6284f5e8acebbe895fb482deeb764b\classes.dex" />
+    </item>
+
+</items>
